@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res" >
+            <file
+                name="beacon_gray"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\drawable-xhdpi\beacon_gray.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bg_distance"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\drawable-xhdpi\bg_distance.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="dot"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\drawable-xhdpi\dot.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="actionbar_indeterminate_progress"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\layout\actionbar_indeterminate_progress.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="all_demos"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\layout\all_demos.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="characteristics_demo"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\layout\characteristics_demo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="device_item"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\layout\device_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="distance_view"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\layout\distance_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="notify_demo"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\layout\notify_demo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="scan_menu"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\menu\scan_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="get_region"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\menu\get_region.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="activity_get_region"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\layout\activity_get_region.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="title_activity_get_region" >GetRegion
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_change_uuid" >ChangeUUID
+                </string>
+            </file>
+            <file
+                name="change_uuid"
+                path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\main\res\menu\change_uuid.xml"
+                qualifiers=""
+                type="menu" />
+        </source>
+        <source path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\build\generated\res\rs\debug" />
+        <source path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\src\debug\res" />
+    </dataSet>
+
+</merger>

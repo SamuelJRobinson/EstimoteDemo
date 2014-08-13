@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+  <Button
+      android:id="@+id/distance_demo_button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Distance Demo"/>
+
+  <Button
+      android:id="@+id/notify_demo_button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Beacon Finder"/>
+
+  <Button
+      android:id="@+id/characteristics_demo_button"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Change Beacon's Minor Demo"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Track Taken Beacon"
+        android:id="@+id/get_region"
+        />
+
+</LinearLayout><!-- From: file:/C:/Users/samuel.j.robinson/Downloads/Android-SDK-master/Android-SDK-master/Demos/src/main/res/layout/all_demos.xml -->

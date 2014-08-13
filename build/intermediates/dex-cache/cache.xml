@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\Demos\build\intermediates\pre-dexed\debug\estimote-sdk-preview-74274b3235fd3c2736afa250303998f969be18c8.jar"
+        jar="C:\Users\samuel.j.robinson\Downloads\Android-SDK-master\Android-SDK-master\EstimoteSDK\estimote-sdk-preview.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d01370ba0c87b94c1da3d909048cd9b69e762eb8"/>
+
+</pre-dex-items>
